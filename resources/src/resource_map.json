@@ -1,0 +1,46 @@
+{
+	"friendlyVersion": "0.1",
+	"versionDefName": "HOUSECONTROL",
+	"media": [
+		{
+			"type": "png",
+			"defName": "IMAGE_MENU_ICON",
+			"file": "images/menu-icon.png"
+		},
+		{
+			"type": "raw",
+			"defName": "CONFIG_FILE",
+			"file": "config.bin"
+		},
+		{
+			"type": "png",
+			"defName": "IMAGE_LIGHT_OFF",
+			"file": "images/light_off.png"
+		},
+		{
+			"type": "png",
+			"defName": "IMAGE_LIGHT_ON",
+			"file": "images/light_on.png"
+		},
+		{
+			"type": "png",
+			"defName": "IMAGE_LOCK_OFF",
+			"file": "images/lock_off.png"
+		},
+		{
+			"type": "png",
+			"defName": "IMAGE_LOCK_ON",
+			"file": "images/lock_on.png"
+		},
+		{
+			"type": "png",
+			"defName": "IMAGE_OTHER_ON",
+			"file": "images/other_on.png"
+		},
+		{
+			"type": "png",
+			"defName": "IMAGE_OTHER_OFF",
+			"file": "images/other_off.png"
+		}
+	]
+}
